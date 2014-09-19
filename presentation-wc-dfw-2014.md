@@ -149,13 +149,46 @@
 
 ---
 
-# [fit] WooCommerce
+# Products
 
-^ E-Commerce is very complex. I promise you that no one here wants to build the exact some store as someone else. One person wants to offer (PayPal, Amazon, and Credit Card payments), someone else wants to offer discounted pricing to members, someone else wants to book massages online. WooCommerce is extensible. Very extensible.
+## What features do you *need*?
 
-^ Who here already has a WooCommerce store?
+* Digital downloads?
+* Subscriptions?
+* Protected content?
+* 20,000 products?
+* Configurable products?
+* Marketplace?
 
-^ What type of store do you want to build?
+^ My advice here is not to look at a feature list. Think about what features you'll actually need.
+
+^ I've lived in a lot of homes over the years and no matter how big the home is I always seem to fill it. You subconsciously think you need all of that space and you start filling it. The same can happen with software. You think you'll need all 300 features that Bigcommerce offers. But just like you don't need a big house you don't need all 300 features.
+
+^ Configurable products like a computer that have lots of inputs
+
+---
+
+# Feature Lists Are *Misleading*
+
+Test, test, test business critical functionality! Or at least watch a youtube video demoing that feature.
+
+^ I find feature lists very misleading. Every single e-commerce platform I listed above is capable of selling a single product but they all do it in *very* different ways.
+
+^ Back in Green Bay there was a great web meetup group I attended and we have a E-Commerce CMS Smackdown where we had different people present different CMS systems and then we would vote to determine the winner. I don't remember the winner but I do remember the loser. After the guy demo'd Magento I asked him a question I asked him to show us how to add a new product to the store. And he stumbled. There were errors on multiple tabs which was very confusing.
+
+---
+
+# [fit] Easy Wins
+
+^ Several e-commerce solutions are really great at one or two things. I'm going to list those here
+
+---
+
+## Easy Win - Selling an E-Book
+
+# Gumroad
+
+^ TODO
 
 ---
 
