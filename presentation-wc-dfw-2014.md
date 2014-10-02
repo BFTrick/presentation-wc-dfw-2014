@@ -12,8 +12,9 @@
 
 ---
 
+# [fit] Who Has
 # [fit] E-Commerce
-# [fit] Experience
+# [fit] Experience?
 
 ^ Who here already has e-commerce experience? What platforms have you used?
 
@@ -149,6 +150,28 @@
 
 ---
 
+# Which of these platforms looks like a better fit?
+
+* A platform that supports subscriptions navtively
+
+* A platform that supports subscriptions for an upsell
+
+^ Now at first glance who doesn't want something that's built in right? You could save your self tons of money. But when you look at the details the product with built in subscriptions might not meet your needs.
+
+^ Gumroad for example ONLY sends out emails to subscribers. There's no way to have a special members only section on your site. They can't view the content on your site. If they want to access archived content they have to do it via Gumroad. Now for certain use cases this is exactly what you'd want but for many people this isn't what I'd call a "subscription"
+
+---
+
+# Feature Lists Are *Misleading*
+
+Test, test, test business critical functionality! Or at least watch a youtube video demoing that feature.
+
+^ I find feature lists very misleading. Every single e-commerce platform I listed above is capable of selling a single product but they all do it in *very* different ways.
+
+^ Back in Green Bay there was a great web meetup group I attended and we have a E-Commerce CMS Smackdown where we had different people present different CMS systems and then we would vote to determine the winner. I don't remember the winner but I do remember the loser. After the guy demo'd Magento I asked him a question I asked him to show us how to add a new product to the store. And he stumbled. There were errors on multiple tabs which was very confusing.
+
+---
+
 # Products
 
 ## What features do you *need*?
@@ -164,18 +187,6 @@
 
 ^ I've lived in a lot of homes over the years and no matter how big the home is I always seem to fill it. You subconsciously think you need all of that space and you start filling it. The same can happen with software. You think you'll need all 300 features that Bigcommerce offers. But just like you don't need a big house you don't need all 300 features.
 
-^ Configurable products like a computer that have lots of inputs
-
----
-
-# Feature Lists Are *Misleading*
-
-Test, test, test business critical functionality! Or at least watch a youtube video demoing that feature.
-
-^ I find feature lists very misleading. Every single e-commerce platform I listed above is capable of selling a single product but they all do it in *very* different ways.
-
-^ Back in Green Bay there was a great web meetup group I attended and we have a E-Commerce CMS Smackdown where we had different people present different CMS systems and then we would vote to determine the winner. I don't remember the winner but I do remember the loser. After the guy demo'd Magento I asked him a question I asked him to show us how to add a new product to the store. And he stumbled. There were errors on multiple tabs which was very confusing.
-
 ---
 
 # [fit] Easy Wins
@@ -188,7 +199,27 @@ Test, test, test business critical functionality! Or at least watch a youtube vi
 
 # Gumroad
 
-^ TODO
+^ Gumroad is awesome at selling an e-book.
+
+---
+
+![original|fit](assets/images/easy-wins/e-book/homepage.png)
+
+---
+
+![original|fit](assets/images/easy-wins/e-book/gumroad-landing-page.png)
+
+---
+
+![original|fit](assets/images/easy-wins/e-book/gumroad-checkout.png)
+
+---
+
+![original|fit](assets/images/easy-wins/e-book/authority-page.png)
+
+---
+
+![original|fit](assets/images/easy-wins/e-book/authority-checkout.png)
 
 ---
 
