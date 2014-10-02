@@ -189,6 +189,129 @@ Test, test, test business critical functionality! Or at least watch a youtube vi
 
 ---
 
+# [fit] Features to Look for in E-Commerce Platforms
+
+---
+
+## Features to Look for in E-Commerce Platforms
+
+# A blog
+
+^ So why do I recommend a blog as the first feature to look for a wordpress e-commerce solution? Because it can drive *so* much traffic.
+
+---
+
+![original|fit](assets/images/desirable-features/google-analytics.jpg)
+
+^ Last month I had just under 10K visits to my site just talking about features in e-commerce platforms & woocommerce snippets.
+
+---
+
+![original|fit](assets/images/desirable-features/content-marketing-criticism.jpg)
+
+---
+
+* What is a furnace filter? How does it relate to other filters?
+* How do I install a furnace filter?
+* Can I build my own furnace filter?
+* Does the quality of a furnace filter matter?
+* Furnace reviews
+* Recycling furnace filters
+* Cleaning furnace filters
+* How long do furnace filters last?
+
+---
+
+## Features to Look for in E-Commerce Platforms
+
+# Newsletter functionality
+
+---
+
+# Newsletter functionality
+
+* Keep your store top of mind
+* Build trust
+* Warm up product launches
+
+^ if someone has bought from you one time and you offer a decent product they'll be inclined to order again from you rather than go exploring for a new vendor. So keep your your store top of mind with a newsletter.
+
+^ warm up new product launches
+
+^ newsletters are generally free up to 2,000 people with services like MailChimp so there's no reason not to at least repost your blog content.
+
+---
+
+## Features to Look for in E-Commerce Platforms
+
+# Intelligent recommendations
+
+^ Now before I get onto intelligent recommendations you definitely need recommendations. So you can manually add recommended products on the product page.
+
+^ Does anyone know what the two most commonly items that are purchased together?
+
+^ Diapers and beer
+
+^ Does anyone here know what percentage of the amazon home page is personalized?
+
+^ 70% of the homepage is personalized recommendations for you based on your purchasing habits and users like you.
+
+^ 75% of Netflix' business is done through recommendations
+
+^ Amazon's Kindle business is 50%
+
+^ Amazon's buisness is 35%
+
+---
+
+![original|fit](assets/images/desirable-features/woothemes-cart-recommendations.jpg)
+
+^ I can't say the exact numbers but we've have a pretty big uptake in sales due to these automated recommendations
+
+^ And they have a free account
+
+---
+
+## Features to Look for in E-Commerce Platforms
+
+# Advanced Reports
+
+* # orders, products, coupons, etc.
+* Google Analytics
+* User behavior (ex. KissMetrics & MixPanel)
+* Cost of goods
+
+^ Google analytics is great because you can look at your visitors and see what behavior converts the most
+
+^ User behavior is great for subscriptions. See how long people are a subscriber. What's the pattern? After how many articles do they cancel? Do they cancel after 6 months?
+
+^ Cost of goods is important to see if after all of your discounts if you still make money.
+
+---
+
+## Features to Look for in E-Commerce Platforms
+
+# Customizable shipping
+
+^ one of the things that everyone wants custom is shipping rates.
+
+^ one person wants to pack two of every item into a box. Another wants to get live USPS quotes, another wants to charge $10 per order + $2 per item, and someone else wants to unlock free shipping after $100
+
+^ What's best here is simple options by default and then options to make it more customizable. One of my first woocommerce sites was a furniture website and it took them about 2 years to launch.
+
+---
+
+## Features to Look for in E-Commerce Platforms
+
+# Customizable shipping
+
+* Flat rate shipping
+* Free shipping (unlockable)
+* Live rates (UPS, USPS, FedEx)
+* Table rate shipping
+
+---
+
 # [fit] Easy Wins
 
 ^ Several e-commerce solutions are really great at one or two things. I'm going to list those here
