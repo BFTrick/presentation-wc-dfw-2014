@@ -6,9 +6,15 @@
 
 ---
 
-# Goal
+## Goal #1
 
-## Create a Framework to Pick the best E-Commerce Platform For Each Project
+# Create a Framework to Pick the best E-Commerce Platform For Each Project
+
+---
+
+## Goal #2
+
+# Start Simple
 
 ---
 
@@ -34,6 +40,8 @@
 * Hosted Payment
 
 ^ There are four types of e-commerce solutions you can use. I'm going to go into the specific solutions in just a sec but this presentation is going to be more about the types of solutions not the specific solutions.
+
+^ Really what's most important is to pick the right category. I'll talk about specific solutions but picking the right category is the most important part.
 
 ---
 
@@ -164,7 +172,7 @@
 
 # Feature Lists Are *Misleading*
 
-Test, test, test business critical functionality! Or at least watch a youtube video demoing that feature.
+Test, test, test business critical functionality! Or *at least* watch a YouTube video demoing that feature.
 
 ^ I find feature lists very misleading. Every single e-commerce platform I listed above is capable of selling a single product but they all do it in *very* different ways.
 
@@ -322,7 +330,11 @@ Test, test, test business critical functionality! Or at least watch a youtube vi
 
 # Gumroad
 
-^ Gumroad is awesome at selling an e-book.
+^ Gumroad is awesome at selling e-books, images, powerpoints, or whatever.
+
+^ Let me show you what a friend of mine did.
+
+^ There is no support for affiliates.
 
 ---
 
@@ -343,6 +355,44 @@ Test, test, test business critical functionality! Or at least watch a youtube vi
 ---
 
 ![original|fit](assets/images/easy-wins/e-book/authority-checkout.png)
+
+---
+
+## Easy Win - Enterprise Clothing Store
+
+# Magento
+
+^ When you have an IT department it's quite nice that a lot of the functionality is built in.
+
+---
+
+## Easy Win - Non-tech Savvy Store Owner
+
+# Shopify
+
+^ If you peck at the keyboard or the way you access the internet is by clicking on the big blue E you may want to look at a hosted solution like Shopify
+
+---
+
+## Easy Win - Store Owner That Can Install WordPress
+
+# WooCommerce / EDD / Exchange
+
+^ You can customize these in any way you want. You can find a new theme and slap it in. With WC you have access 100+ payment gateways.
+
+^ When the basement floods you have to call someone to fix it.
+
+---
+
+# SellWithWP.com
+
+WordPress specific e-commerce tutorials, reviews, & articles.
+
+---
+
+# WooCommerce Conf
+
+Right after WordCamp San Francisco we're having our first ever WooConf. If you want to know more about e-commerce from people who have been in the industry a decade please stop by.
 
 ---
 
