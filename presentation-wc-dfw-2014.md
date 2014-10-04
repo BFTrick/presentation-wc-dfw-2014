@@ -2,7 +2,7 @@
 
 ### Patrick Rauland - @BFTrick
 
-###  http://speakinginbytes.com/2014/10/______________/
+###  http://speakinginbytes.com/2014/10/choosing-right-e-commerce-platform-needs/
 
 ---
 
